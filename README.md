@@ -33,4 +33,12 @@ Når programmet kører, får man en menu med følgende muligheder:
 
 ```bash
 src/
-  └── dk/cphbusiness/Main.ja
+  └── dk/cphbusiness/Main.java
+sql/
+  ├── create_schema.sql
+  ├── insert_data.sql
+  ├── stored_procedures.sql
+  ├── triggers.sql
+  └── queries.sql
+README.md
+.gitignore
